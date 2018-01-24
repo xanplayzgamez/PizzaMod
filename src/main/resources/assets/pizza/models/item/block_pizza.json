@@ -1,0 +1,6 @@
+{
+    "parent": "pizza:block/block_pizza",
+    "textures": {
+        "layer0": "pizza:items/pizza_handheld"
+    }
+}

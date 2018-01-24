@@ -1,0 +1,26 @@
+{
+	"variants": {
+		"bites=0": {
+			"model": "pizza:block_pizza_uneaten"
+		},
+		"bites=1": {
+			"model": "pizza:block_pizza_slice1"
+		},
+		"bites=2": {
+			"model": "pizza:block_pizza_slice2"
+		},
+		"bites=3": {
+			"model": "pizza:block_pizza_slice3"
+		},
+		"bites=4": {
+			"model": "pizza:block_pizza_slice4"
+		},
+		"bites=5": {
+			"model": "pizza:block_pizza_slice5"
+		},
+		"bites=6": {
+			"model": "pizza:block_pizza_slice6"
+		}
+	}
+
+}
