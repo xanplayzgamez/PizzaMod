@@ -1,12 +1,10 @@
 package com.xanplayz.pizza.items;
 
-import com.xanplayz.pizza.IHasModel;
-import com.xanplayz.pizza.ItemInit;
-import com.xanplayz.pizza.PizzaMod;
+import com.xanplayz.pizza.registry.IHasModel;
+import com.xanplayz.pizza.init.ItemInit;
+import com.xanplayz.pizza.main.PizzaMod;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemFood;
-import net.minecraft.potion.PotionEffect;
 
 public class Cheese extends ItemFood implements IHasModel
 {

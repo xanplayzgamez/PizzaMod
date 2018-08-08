@@ -1,9 +1,9 @@
 package com.xanplayz.pizza.blocks;
 
-import com.xanplayz.pizza.BlockInit;
-import com.xanplayz.pizza.IHasModel;
-import com.xanplayz.pizza.ItemInit;
-import com.xanplayz.pizza.PizzaMod;
+import com.xanplayz.pizza.init.BlockInit;
+import com.xanplayz.pizza.registry.IHasModel;
+import com.xanplayz.pizza.init.ItemInit;
+import com.xanplayz.pizza.main.PizzaMod;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
