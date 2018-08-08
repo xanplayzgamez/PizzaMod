@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "pizza:items/pizza_handheld"
+        "layer0": "pizza:items/cheese"
     }
 }

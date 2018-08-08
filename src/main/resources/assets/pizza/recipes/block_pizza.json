@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "CCC",
+    "BBB",
+    "AAA"
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "minecraft:redstone"
+    },
+
+    "A":
+    {
+      "item": "minecraft:bread"
+    },
+
+    "C":
+    {
+      "item": "pizza:cheese"
+    }
+  },
+
+  "result":
+  {
+    "item": "pizza:block_pizza"
+  }
+}

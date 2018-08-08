@@ -12,8 +12,8 @@ public class PizzaMod {
     public static CommonProxy proxy;
     
 	public static final String MODID = "pizza";
-	public static final String NAME = "Pizza Mod";
-	public static final String VERSION = "1.0";
+	public static final String NAME = "PizzaMod";
+	public static final String VERSION = "1.1b";
 	public static final String CLIENT = "com.xanplayz.pizza.ClientProxy";
 	public static final String COMMON = "com.xanplayz.pizza.CommonProxy";
 
